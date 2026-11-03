@@ -1,0 +1,2 @@
+# Temple_Religious_Trust_Website
+Automated website repository for Temple_Religious_Trust_Website
